@@ -14,3 +14,4 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 sandbox/src/.DS_Store
 sandbox/src/test/.DS_Store
+.idea/workspace.xml
